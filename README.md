@@ -14,7 +14,7 @@ Fashion Matchmaker is an AI-powered styling assistant that helps you find the pe
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/fashion-matchmaker.git
+   git clone https://github.com/Gowripriya156/fashion-matchmaker.git
    ```
 2. **Install dependencies:**
    ```bash
